@@ -3,6 +3,7 @@
 //    {YOUR-ORG-NAME} with the GitHub organization to query
 // Courtesy of @kukicado
 // Running via Webtask.io
+// Example: https://wt-89ab857b2d58015b13ca239c3a277fb1-0.sandbox.auth0-extend.com/github-org-contrib
 
 let express    = require('express');
 let Webtask    = require('webtask-tools');
